@@ -33,5 +33,29 @@ namespace JotDown.Api.Controllers
             _manager.Add(note);
             return Ok();
         }
+
+        [HttpPost]
+        [Route("update")]
+        public IActionResult Update(Note note)
+        {
+            _manager.update(note);
+            return Ok();
+        }
+
+        [HttpPost]
+        [Route("delete")]
+        public IActionResult Delete(Note note)
+        {
+            _manager.Delete(note);
+            return Ok();
+        }
+
+        [HttpPost]
+        [Route("getbycategory")]
+        public IActionResult GetByCategory(int id)
+        {
+            
+            return Ok(_manager.GetById(id));
+        }
     }
 }

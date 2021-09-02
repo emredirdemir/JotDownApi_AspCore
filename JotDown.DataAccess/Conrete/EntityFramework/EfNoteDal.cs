@@ -54,7 +54,7 @@ namespace JotDown.DataAccess.Conrete.EntityFramework
         {
             using (var db = new JotContext())
             {
-                List<Note> notes = db.notes.Include(n => n.CategorId).ToList();
+                List<Note> notes = db.notes.Where(n => n.CategorId == CategoryId).ToList();
 
                 return notes;
             }
