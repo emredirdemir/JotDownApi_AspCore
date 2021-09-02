@@ -1,0 +1,11 @@
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\bin\Debug\net5.0\JotDown.Entities.deps.json
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\bin\Debug\net5.0\JotDown.Entities.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\bin\Debug\net5.0\ref\JotDown.Entities.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\bin\Debug\net5.0\JotDown.Entities.pdb
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.AssemblyInfoInputs.cache
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.AssemblyInfo.cs
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\ref\JotDown.Entities.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.pdb

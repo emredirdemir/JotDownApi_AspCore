@@ -11,8 +11,8 @@ namespace JotDown.Business.Concrete
 {
     public class NoteManager : INoteManager
     {
-        private INotDal _noteDal;
-        public NoteManager(INotDal noteDal)
+        private INoteDal _noteDal;
+        public NoteManager(INoteDal noteDal)
         {
             _noteDal = noteDal;
         }

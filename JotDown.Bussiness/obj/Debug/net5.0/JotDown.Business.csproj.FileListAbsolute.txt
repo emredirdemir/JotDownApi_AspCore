@@ -1,0 +1,17 @@
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.csproj.AssemblyReference.cache
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.AssemblyInfoInputs.cache
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.AssemblyInfo.cs
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.csproj.CoreCompileInputs.cache
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.Business.deps.json
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.Business.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\ref\JotDown.Business.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.Business.pdb
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.DataAccess.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.Entities.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.DataAccess.pdb
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\bin\Debug\net5.0\JotDown.Entities.pdb
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.csproj.CopyComplete
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\ref\JotDown.Business.dll
+C:\Users\emre-\Desktop\JotDown\JotDown.Bussiness\obj\Debug\net5.0\JotDown.Business.pdb

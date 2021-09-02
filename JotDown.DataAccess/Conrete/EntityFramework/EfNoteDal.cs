@@ -11,8 +11,9 @@ using System.Threading.Tasks;
 
 namespace JotDown.DataAccess.Conrete.EntityFramework
 {
-    public class EfNoteDal: INotetDal 
+    public class EfNoteDal: INoteDal
     {
+        
         public void AddNote(Note note)
         {
             using (var db = new JotContext())
