@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JotDown.Business", "JotDown
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JotDown.Api", "JotDown.Api\JotDown.Api.csproj", "{3BA690E3-4093-4137-8374-3BB6EBE8CA89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JotDown.Entities", "JotDown.Entities\JotDown.Entities.csproj", "{1FC7C0A5-1C60-4AF1-9633-D6484C840C29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3BA690E3-4093-4137-8374-3BB6EBE8CA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BA690E3-4093-4137-8374-3BB6EBE8CA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BA690E3-4093-4137-8374-3BB6EBE8CA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FC7C0A5-1C60-4AF1-9633-D6484C840C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FC7C0A5-1C60-4AF1-9633-D6484C840C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FC7C0A5-1C60-4AF1-9633-D6484C840C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FC7C0A5-1C60-4AF1-9633-D6484C840C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
