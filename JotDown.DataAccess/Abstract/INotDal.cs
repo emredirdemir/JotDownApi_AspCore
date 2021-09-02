@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace JotDown.DataAccess.Abstract
 {
-    public interface INotetDal
+    public interface INotDal
     {
         List<Note> GetNotes();
         List<Note> GetNotesByCategory(int CategoryId);

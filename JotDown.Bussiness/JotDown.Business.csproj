@@ -4,4 +4,9 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JotDown.DataAccess\JotDown.DataAccess.csproj" />
+    <ProjectReference Include="..\JotDown.Entities\JotDown.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
