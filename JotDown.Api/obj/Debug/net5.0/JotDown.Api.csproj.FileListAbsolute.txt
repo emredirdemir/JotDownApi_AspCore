@@ -63,3 +63,4 @@ C:\Users\emre-\Desktop\JotDown\JotDown.Api\bin\Debug\net5.0\JotDown.Entities.dll
 C:\Users\emre-\Desktop\JotDown\JotDown.Api\bin\Debug\net5.0\JotDown.Business.pdb
 C:\Users\emre-\Desktop\JotDown\JotDown.Api\bin\Debug\net5.0\JotDown.DataAccess.pdb
 C:\Users\emre-\Desktop\JotDown\JotDown.Api\bin\Debug\net5.0\JotDown.Entities.pdb
+C:\Users\emre-\Desktop\JotDown\JotDown.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

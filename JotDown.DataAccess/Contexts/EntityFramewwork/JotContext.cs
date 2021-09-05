@@ -12,6 +12,7 @@ namespace JotDown.DataAccess.Contexts.EntityFramewwork
     {
         public DbSet<Note> notes { get; set; }
         public DbSet<Category> categories { get; set; }
+        public DbSet<User> users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
