@@ -12,11 +12,7 @@ namespace JotDown.DataAccess.Conrete
 {
     public class AuthRepository : IAuthRepo
     {
-        private JotContext _context;
-        public AuthRepository(JotContext context)
-        {
-            _context = context;
-        }
+        JotContext _context = new JotContext();
 
         public async Task<User> Login(string userName, string password)
         {
@@ -37,9 +33,10 @@ namespace JotDown.DataAccess.Conrete
 
         private bool VerifypassHash(string password, byte[] passwordHash, byte[] passwordSalt)
         {
-            using (var hmac = new System.Security.Cryptography.HMACSHA256(passwordSalt))
+            using (var hmac = new System.Security.Cryptography.HMACSHA512(passwordSalt))
             {
                 var computedHash = hmac.ComputeHash(Encoding.UTF8.GetBytes(password));
+
 
                 for (int i = 0; i < computedHash.Length; i++)
                 {

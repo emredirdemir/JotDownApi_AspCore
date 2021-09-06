@@ -9,3 +9,4 @@ C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entitie
 C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.dll
 C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\ref\JotDown.Entities.dll
 C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.pdb
+C:\Users\emre-\Desktop\JotDown\JotDown.Entities\obj\Debug\net5.0\JotDown.Entities.csproj.AssemblyReference.cache
